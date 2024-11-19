@@ -1,0 +1,10 @@
+^C:\DEVELOP\31-PRACTICAL-WORK\TASK_2\CMAKELISTS.TXT
+setlocal
+"C:\Users\maksi\OneDrive\Рабочий стол\cmake-3.30.2-windows-x86_64\bin\cmake.exe" -SC:/develop/31-Practical-Work/Task_2 -BC:/develop/31-Practical-Work/Task_2/build --check-stamp-file C:/develop/31-Practical-Work/Task_2/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

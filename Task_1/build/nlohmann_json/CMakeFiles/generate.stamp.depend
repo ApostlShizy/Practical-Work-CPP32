@@ -1,0 +1,10 @@
+# CMake generation dependency list for this directory.
+C:/Users/maksi/OneDrive/Рабочий стол/cmake-3.30.2-windows-x86_64/share/cmake-3.30/Modules/CMakePackageConfigHelpers.cmake
+C:/Users/maksi/OneDrive/Рабочий стол/cmake-3.30.2-windows-x86_64/share/cmake-3.30/Modules/ExternalProject.cmake
+C:/Users/maksi/OneDrive/Рабочий стол/cmake-3.30.2-windows-x86_64/share/cmake-3.30/Modules/ExternalProject/shared_internal_commands.cmake
+C:/Users/maksi/OneDrive/Рабочий стол/cmake-3.30.2-windows-x86_64/share/cmake-3.30/Modules/GNUInstallDirs.cmake
+C:/Users/maksi/OneDrive/Рабочий стол/cmake-3.30.2-windows-x86_64/share/cmake-3.30/Modules/WriteBasicConfigVersionFile.cmake
+C:/develop/31-Practical-Work/Task_1/nlohmann_json/CMakeLists.txt
+C:/develop/31-Practical-Work/Task_1/nlohmann_json/cmake/config.cmake.in
+C:/develop/31-Practical-Work/Task_1/nlohmann_json/cmake/nlohmann_jsonConfigVersion.cmake.in
+C:/develop/31-Practical-Work/Task_1/nlohmann_json/cmake/pkg-config.pc.in

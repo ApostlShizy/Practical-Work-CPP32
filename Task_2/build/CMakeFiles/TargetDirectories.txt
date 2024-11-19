@@ -1,0 +1,4 @@
+C:/develop/31-Practical-Work/Task_2/build/CMakeFiles/cinema.dir
+C:/develop/31-Practical-Work/Task_2/build/CMakeFiles/ALL_BUILD.dir
+C:/develop/31-Practical-Work/Task_2/build/CMakeFiles/ZERO_CHECK.dir
+C:/develop/31-Practical-Work/Task_2/build/nlohmann_json/CMakeFiles/ALL_BUILD.dir

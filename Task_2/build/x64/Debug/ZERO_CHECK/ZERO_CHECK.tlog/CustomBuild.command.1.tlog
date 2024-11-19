@@ -1,0 +1,10 @@
+^C:\DEVELOP\31-PRACTICAL-WORK\TASK_2\BUILD\CMAKEFILES\63DD17999337F0063A1151781AE249F6\GENERATE.STAMP.RULE
+setlocal
+"C:\Users\maksi\OneDrive\Рабочий стол\cmake-3.30.2-windows-x86_64\bin\cmake.exe" -SC:/develop/31-Practical-Work/Task_2 -BC:/develop/31-Practical-Work/Task_2/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/develop/31-Practical-Work/Task_2/build/cinema.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

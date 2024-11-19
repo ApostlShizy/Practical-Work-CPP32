@@ -1,0 +1,10 @@
+^C:\DEVELOP\31-PRACTICAL-WORK\TASK_1\BUILD\CMAKEFILES\2FC4B9D267EAA21C8F534E5C24A66525\GENERATE.STAMP.RULE
+setlocal
+"C:\Users\maksi\OneDrive\Рабочий стол\cmake-3.30.2-windows-x86_64\bin\cmake.exe" -SC:/develop/31-Practical-Work/Task_1 -BC:/develop/31-Practical-Work/Task_1/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/develop/31-Practical-Work/Task_1/build/FilmPortal.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
